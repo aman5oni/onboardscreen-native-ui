@@ -61,7 +61,7 @@ const OnBoard = () => {
     >
       <View style={styles.slide}>
         <Image source={require("../images/Cooking.png")} style={styles.img} />
-        <Text style={styles.title}>Meet Up UI-Kit</Text>
+        <Text style={styles.title}>Cooking</Text>
         <Text style={styles.text}>
           When I was 5 years old, my mother always told me that happiness was
           the key to life. When I went to school, they asked me what I wanted to
@@ -70,7 +70,7 @@ const OnBoard = () => {
       </View>
       <View style={styles.slide}>
         <Image source={require("../images/Inlove.png")} style={styles.img} />
-        <Text style={styles.title}>Discover</Text>
+        <Text style={styles.title}>In Love</Text>
         <Text style={styles.text}>
           When I was 5 years old, my mother always told me that happiness was
           the key to life. When I went to school, they asked me what I wanted to
@@ -80,7 +80,7 @@ const OnBoard = () => {
 
       <View style={styles.slide}>
         <Image source={require("../images/Summer.png")} style={styles.img} />
-        <Text style={styles.title}>Get Started</Text>
+        <Text style={styles.title}>Summer</Text>
         <Text style={styles.text}>
           When I was 5 years old, my mother always told me that happiness was
           the key to life. When I went to school, they asked me what I wanted to
@@ -89,7 +89,7 @@ const OnBoard = () => {
       </View>
       <View style={styles.slide}>
         <Image source={require("../images/Traveling.png")} style={styles.img} />
-        <Text style={styles.title}>Welcome</Text>
+        <Text style={styles.title}>Traveling</Text>
         <Text style={styles.text}>
           When I was 5 years old, my mother always told me that happiness was
           the key to life. When I went to school, they asked me what I wanted to
